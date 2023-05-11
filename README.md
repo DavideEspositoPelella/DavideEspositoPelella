@@ -1,4 +1,11 @@
 <div id="header" align="center">
+  <h1>
+    Davide Esposito Pelella
+  </h1>
+   <h1>
+    Software Developer | AI Student 
+  </h1>
+  
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
   <a href="https://www.linkedin.com/in/davide-esposito-pelella-59b307243/">
