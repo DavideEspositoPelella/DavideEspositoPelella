@@ -53,4 +53,4 @@ Software Engineer | AI Student <img src="https://media.giphy.com/media/WUlplcMpO
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
--->
+
