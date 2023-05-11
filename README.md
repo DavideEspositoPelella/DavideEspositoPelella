@@ -54,10 +54,9 @@ Software Engineer | AI Student <img src="https://media.giphy.com/media/WUlplcMpO
 
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=DavideEspositoPelella&theme=vision-friendly-darke)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavideEspositoPelella&layout=compact&theme=vision-friendly-dark)](https://github.com/DavideEspositoPelella/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavideEspositoPelella&layout=compact&theme=vision-friendly-dark)](https://github.com/DavideEspositoPelella)-->
 
-<!--
-![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavideEspositoPelella&layout=compact&theme=vision-friendly-dark)-->
+
 ---
 <!--
 ### :writing_hand: Blog Posts :
