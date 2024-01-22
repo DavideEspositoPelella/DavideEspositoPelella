@@ -26,9 +26,9 @@
 
 ---
 <!--
-### :woman_technologist: About Me :
+### :man_technologist: About Me :
 Software Engineer | AI Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Italia.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m studing as a AI and Software Engineer.
 
 - :seedling: Exploring Technical Content Writing.
 
